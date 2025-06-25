@@ -8,7 +8,7 @@ Bem-vindo(a) ao portal de documentação da **Elo Editorial**. Este espaço foi 
 
 Nosso compromisso é com a clareza, a conformidade legal e a melhor experiência para nossos usuários e parceiros.
 
-##  Navigateção Rápida
+##  Navegação Rápida
 
 Encontre abaixo os documentos para cada um de nossos projetos.
 
