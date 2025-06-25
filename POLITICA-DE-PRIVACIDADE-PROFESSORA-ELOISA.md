@@ -1,6 +1,3 @@
-> **AVISO IMPORTANTE**
-> Este documento é um modelo gerado para auxiliar no processo de registro do seu aplicativo e na conformidade com a LGPD. Ele se baseia nas informações do seu código e nos dados fornecidos por você. **Recomenda-se fortemente que este documento seja revisado por um profissional jurídico qualificado** para garantir total conformidade legal.
-
 # Política de Privacidade do Assistente Pedagógico "Professora Eloísa"
 
 **Data da Última Atualização:** 25 de junho de 2025
