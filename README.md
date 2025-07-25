@@ -21,7 +21,7 @@ Documentos relacionados ao nosso assistente pedagógico inteligente via WhatsApp
 
 Para dúvidas específicas sobre qualquer um dos documentos listados, ou para exercer seus direitos como titular de dados, por favor, entre em contato através do nosso canal oficial:
 
-* **E-mail:** `ia.labbook@eloeditora.com.br`
+* **E-mail:** `ia.labbook@eloeditora.com.br` e `danilo.molero@eloeditora.com.br`
 
 ---
 
