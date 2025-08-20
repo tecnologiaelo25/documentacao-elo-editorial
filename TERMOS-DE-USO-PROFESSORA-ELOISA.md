@@ -4,7 +4,7 @@
 
 Bem-vindo(a) à "Professora Eloísa"! Estes Termos de Uso ("Termos") regem o seu acesso e uso do nosso serviço de assistente pedagógico via WhatsApp ("Serviço"). O Serviço é fornecido pela **Grupo Elo Editorial Centro Elo Editorial LTDA**, pessoa jurídica de direito privado, inscrita no CNPJ sob o nº 53.930.229/0001-91 ("Empresa", "nós").
 
-Ao acessar ou usar o nosso Serviço, você ("Usuário") concorda em estar vinculado a estes Termos e à nossa [Política de Privacidade](https://tecnologiaelo25.github.io/documentacao-elo-editorial/POLITICA-DE-PRIVACIDADE-PROFESSORA-ELOISA.html).
+Ao acessar ou usar o nosso Serviço, você ("Usuário") concorda em estar vinculado a estes Termos e à nossa [Política de Privacidade](https://tecnologiaelo25.github.io/documentacao-elo-editorial/politica-de-privacidade-professora-eloisa.html).
 
 ### 1. Aceitação dos Termos
 
@@ -40,7 +40,7 @@ Ao utilizar o Serviço, o Usuário concorda em:
 
 ### 6. Privacidade
 
-Nossa coleta e uso de informações pessoais em conexão com o Serviço estão descritos em nossa **[Política de Privacidade](https://tecnologiaelo25.github.io/documentacao-elo-editorial/POLITICA-DE-PRIVACIDADE-PROFESSORA-ELOISA.html)**.
+Nossa coleta e uso de informações pessoais em conexão com o Serviço estão descritos em nossa **[Política de Privacidade](https://tecnologiaelo25.github.io/documentacao-elo-editorial/politica-de-privacidade-professora-eloisa.html)**.
 
 ### 7. Modificação e Rescisão
 
@@ -53,4 +53,4 @@ Estes Termos serão regidos e interpretados de acordo com as leis da República 
 
 ### 9. Contato
 
-Para dúvidas ou esclarecimentos sobre estes Termos de Uso, entre em contato conosco pelo e-mail: `ia.labbook@eloeditora.com.br`.
+Para dúvidas ou esclarecimentos sobre estes Termos de Uso, entre em contato conosco pelo e-mail: `dev.ia@grupoeloeditorial.com.br`.

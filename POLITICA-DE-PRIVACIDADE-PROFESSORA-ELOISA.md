@@ -12,7 +12,7 @@ O responsável pelo tratamento dos seus dados pessoais (controlador) no âmbito 
 
 * **Nome/Empresa:** Grupo Elo Editorial Centro Elo Editorial LTDA
 * **CNPJ:** 53.930.229/0001-91
-* **E-mail para Contato:** ia.labbook@eloeditora.com.br
+* **E-mail para Contato:** dev.ia@grupoeloeditorial.com.br
 
 ### 3. Dados Pessoais que Coletamos
 
@@ -68,7 +68,7 @@ De acordo com a LGPD, Você tem o direito de:
 * **Obter informação** sobre as entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados.
 * **Revogar o consentimento**, quando esta for a base legal para o tratamento.
 
-Para exercer qualquer um desses direitos, por favor, entre em contato conosco através do e-mail: **ia.labbook@eloeditora.com.br**.
+Para exercer qualquer um desses direitos, por favor, entre em contato conosco através do e-mail: **dev.ia@grupoeloeditorial.com.br**.
 
 ### 8. Alterações a Esta Política de Privacidade
 
@@ -76,4 +76,4 @@ Podemos atualizar esta Política de Privacidade periodicamente para refletir mud
 
 ### 9. Contato
 
-Se você tiver dúvidas sobre esta Política de Privacidade ou sobre nossas práticas de tratamento de dados, entre em contato conosco pelo e-mail: **ia.labbook@eloeditora.com.br**.
+Se você tiver dúvidas sobre esta Política de Privacidade ou sobre nossas práticas de tratamento de dados, entre em contato conosco pelo e-mail: **dev.ia@grupoeloeditorial.com.br**.

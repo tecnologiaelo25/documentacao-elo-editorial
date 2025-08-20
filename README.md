@@ -12,8 +12,8 @@ Nosso compromisso é com a clareza, a conformidade legal e a melhor experiência
 
 Documentos relacionados ao nosso assistente pedagógico inteligente via WhatsApp.
 
-* **[Política de Privacidade](https://tecnologiaelo25.github.io/documentacao-elo-editorial/POLITICA-DE-PRIVACIDADE-PROFESSORA-ELOISA.html)** - Detalha como tratamos os dados dos usuários em conformidade com a LGPD.
-* **[Termos de Uso](https://tecnologiaelo25.github.io/documentacao-elo-editorial/TERMOS-DE-USO-PROFESSORA-ELOISA.html)** - Regras e diretrizes para a utilização do serviço.
+* **[Política de Privacidade](https://tecnologiaelo25.github.io/documentacao-elo-editorial/politica-de-privacidade-professora-eloisa.html)** - Detalha como tratamos os dados dos usuários em conformidade com a LGPD.
+* **[Termos de Uso](https://tecnologiaelo25.github.io/documentacao-elo-editorial/termos-de-uso-professora-eloisa.html)** - Regras e diretrizes para a utilização do serviço.
 
 ---
 
@@ -21,7 +21,7 @@ Documentos relacionados ao nosso assistente pedagógico inteligente via WhatsApp
 
 Para dúvidas específicas sobre qualquer um dos documentos listados, ou para exercer seus direitos como titular de dados, por favor, entre em contato através do nosso canal oficial:
 
-* **E-mail:** `ia.labbook@eloeditora.com.br` e `danilo.molero@eloeditora.com.br`
+* **E-mail:** `dev.ia@grupoeloeditorial.com.br`
 
 ---
 
