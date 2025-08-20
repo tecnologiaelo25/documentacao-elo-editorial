@@ -1,4 +1,4 @@
-# 📚 Documentação Oficial - Elo Editorial
+# 📚 Documentação Oficial – Elo Editorial
 
 **Repositório central para a documentação pública dos softwares e serviços da Elo Editorial.**
 
