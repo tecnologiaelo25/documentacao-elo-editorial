@@ -8,9 +8,9 @@ Bem-vindo(a) ao portal de documentação da **Elo Editorial**. Este espaço foi 
 
 Nosso compromisso é com a clareza, a conformidade legal e a melhor experiência para nossos usuários e parceiros.
 
-###  Professora Eloísa (Assistente WhatsApp)
+###  Professora Eloísa & Professora Amélia (Assistente WhatsApp)
 
-Documentos relacionados ao nosso assistente pedagógico inteligente via WhatsApp.
+Documentos relacionados aos nossos assistentes pedagógicos inteligentes via WhatsApp.
 
 * **[Política de Privacidade](https://tecnologiaelo25.github.io/documentacao-elo-editorial/politica-de-privacidade-professora-eloisa.html)** - Detalha como tratamos os dados dos usuários em conformidade com a LGPD.
 * **[Termos de Uso](https://tecnologiaelo25.github.io/documentacao-elo-editorial/termos-de-uso-professora-eloisa.html)** - Regras e diretrizes para a utilização do serviço.
